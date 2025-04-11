@@ -1,0 +1,2 @@
+C:/Users/Arin Jain/Downloads/derm_aid/derm_aid/android/app/.cxx/Debug/2u4j125d/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Arin Jain/Downloads/derm_aid/derm_aid/android/app/.cxx/Debug/2u4j125d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
